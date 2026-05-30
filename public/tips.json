@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "icon": "🎯",
+    "title": "Define Achievable Learning Goals",
+    "description": "Set clear and realistic objectives for each week. Breaking larger goals into smaller milestones helps maintain focus and measure progress effectively."
+  },
+  {
+    "id": 2,
+    "icon": "⏰",
+    "title": "Create a Consistent Study Routine",
+    "description": "Schedule dedicated learning time every day. Consistent study sessions build stronger habits and improve long-term knowledge retention."
+  },
+  {
+    "id": 3,
+    "icon": "🔄",
+    "title": "Learn Through Practical Application",
+    "description": "Apply what you learn by building projects, solving problems, and completing exercises. Practical experience strengthens understanding and confidence."
+  },
+  {
+    "id": 4,
+    "icon": "📝",
+    "title": "Take Structured Notes",
+    "description": "Organize important concepts, key takeaways, and questions in your own words. Effective note-taking improves comprehension and revision."
+  },
+  {
+    "id": 5,
+    "icon": "🤝",
+    "title": "Engage with the Learning Community",
+    "description": "Participate in discussions, ask questions, and collaborate with other learners. Community support can accelerate growth and keep you motivated."
+  },
+  {
+    "id": 6,
+    "icon": "🔁",
+    "title": "Review and Reinforce Knowledge",
+    "description": "Regularly revisit previous lessons and practice key concepts. Consistent review helps transfer information from short-term to long-term memory."
+  }
+]
