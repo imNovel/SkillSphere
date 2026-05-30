@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Web Development Bootcamp",
+    "instructor": "John Doe",
+    "duration": "20 hours",
+    "rating": 4.8,
+    "level": "Beginner",
+    "description": "Learn full-stack web development from scratch. Master HTML, CSS, JavaScript, React, Node.js and more.",
+    "image": "https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?w=600&q=80",
+    "category": "Development",
+    "price": 49.99,
+    "students": 12400
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Design Masterclass",
+    "instructor": "Sarah Miller",
+    "duration": "15 hours",
+    "rating": 4.9,
+    "level": "Intermediate",
+    "description": "Design beautiful, user-friendly interfaces using Figma. Covers design systems, prototyping, and user research.",
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&q=80",
+    "category": "Design",
+    "price": 39.99,
+    "students": 8750
+  },
+  {
+    "id": 3,
+    "title": "Python for Data Science & Machine Learning",
+    "instructor": "Dr. Ahmed Khan",
+    "duration": "32 hours",
+    "rating": 4.7,
+    "level": "Intermediate",
+    "description": "Master Python, Pandas, NumPy, Scikit-Learn, and TensorFlow to build real-world ML models.",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=80",
+    "category": "Data Science",
+    "price": 59.99,
+    "students": 21300
+  },
+  {
+    "id": 4,
+    "title": "Digital Marketing & SEO Strategy",
+    "instructor": "Emma Williams",
+    "duration": "12 hours",
+    "rating": 4.6,
+    "level": "Beginner",
+    "description": "Grow any business online with proven digital marketing tactics including SEO, social media, and paid ads.",
+    "image": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=600&q=80",
+    "category": "Marketing",
+    "price": 29.99,
+    "students": 6890
+  },
+  {
+    "id": 5,
+    "title": "React & Next.js — The Complete Guide",
+    "instructor": "Carlos Rivera",
+    "duration": "28 hours",
+    "rating": 4.9,
+    "level": "Advanced",
+    "description": "Build production-ready React apps with Next.js 14, TypeScript, Tailwind CSS, and server-side rendering.",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=80",
+    "category": "Development",
+    "price": 54.99,
+    "students": 15600
+  },
+  {
+    "id": 6,
+    "title": "Financial Literacy & Personal Investing",
+    "instructor": "Priya Sharma",
+    "duration": "10 hours",
+    "rating": 4.5,
+    "level": "Beginner",
+    "description": "Understand budgeting, stocks, ETFs, and retirement planning to take full control of your financial future.",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
+    "category": "Finance",
+    "price": 24.99,
+    "students": 5320
+  }
+]
