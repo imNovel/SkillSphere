@@ -12,13 +12,10 @@ const Navbar = () => {
 
         <ul className="flex items-center gap-5 text-sm">
           <li>
-            <Link href={"/Home"}>Home</Link>
+            <Link href={"/"}>Home</Link>
           </li>
           <li>
-            <Link href={"/all-photos"}>All Photos</Link>
-          </li>
-          <li>
-            <Link href={"/pricing"}>Pricing</Link>
+            <Link href={"/courses"}>Courses</Link>
           </li>
           <li>
             <Link href={"/profile"}>Profile</Link>
