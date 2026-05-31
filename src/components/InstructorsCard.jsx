@@ -3,22 +3,12 @@ import { Avatar, Chip } from '@heroui/react';
 import { StarFill, PersonFill, BookFill } from '@gravity-ui/icons';
 
 const InstructorsCard = ({ instructors }) => {
-  const initials = instructors.instructor
-    .split(' ')
-    .map((n) => n[0])
-    .join('');
+
 
   return (
     <div className="bg-white border border-default-100 rounded-2xl p-5 flex flex-col items-center text-center gap-3 hover:shadow-sm transition-shadow duration-200">
-      <div className="relative">
-        <Avatar
-          name={initials}
-          size="lg"
-          classNames={{
-            base: "w-16 h-16 bg-violet-100",
-            name: "text-violet-700 font-semibold text-xl",
-          }}
-        />
+      <div>
+        <PersonFill size={80}/>
       </div>
 
       {/* Name + role + category chip */}

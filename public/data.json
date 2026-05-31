@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Complete Web Development Bootcamp",
     "instructor": "John Doe",
-    "role": "Senior Full-Stack Web Developer",
+    "role": "Full-Stack Developer & Tech Lead",
     "duration": "20 hours",
     "rating": 4.8,
     "level": "Beginner",
@@ -11,13 +11,25 @@
     "image": "https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?w=600&q=80",
     "category": "Development",
     "price": 49.99,
-    "students": 12400
+    "students": 12400,
+    "curriculum": [
+      "Introduction to Web Development",
+      "HTML5 Fundamentals",
+      "CSS3 & Responsive Design",
+      "JavaScript Essentials",
+      "DOM Manipulation",
+      "React Fundamentals",
+      "Node.js & Express",
+      "MongoDB Basics",
+      "Authentication & Security",
+      "Full-Stack Project Deployment"
+    ]
   },
   {
     "id": 2,
     "title": "UI/UX Design Masterclass",
     "instructor": "Sarah Miller",
-    "role": "UI/UX Design Specialist",
+    "role": "Senior UI/UX Designer at Figma",
     "duration": "15 hours",
     "rating": 4.9,
     "level": "Intermediate",
@@ -25,13 +37,25 @@
     "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&q=80",
     "category": "Design",
     "price": 39.99,
-    "students": 8750
+    "students": 8750,
+    "curriculum": [
+      "UI/UX Foundations",
+      "Design Thinking Process",
+      "User Research Methods",
+      "Wireframing & User Flows",
+      "Figma Essentials",
+      "Design Systems",
+      "Interactive Prototyping",
+      "Usability Testing",
+      "Mobile App Design",
+      "Portfolio Creation"
+    ]
   },
   {
     "id": 3,
     "title": "Python for Data Science & Machine Learning",
     "instructor": "Dr. Ahmed Khan",
-    "role": "Data Scientist & Machine Learning Engineer",
+    "role": "Data Scientist & ML Research Engineer",
     "duration": "32 hours",
     "rating": 4.7,
     "level": "Intermediate",
@@ -39,13 +63,25 @@
     "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=80",
     "category": "Data Science",
     "price": 59.99,
-    "students": 21300
+    "students": 21300,
+    "curriculum": [
+      "Python Programming Basics",
+      "NumPy for Data Analysis",
+      "Pandas Data Manipulation",
+      "Data Visualization",
+      "Statistics for Data Science",
+      "Machine Learning Fundamentals",
+      "Scikit-Learn Models",
+      "Deep Learning with TensorFlow",
+      "Model Evaluation",
+      "Capstone ML Project"
+    ]
   },
   {
     "id": 4,
     "title": "Digital Marketing & SEO Strategy",
     "instructor": "Emma Williams",
-    "role": "Digital Marketing Strategist",
+    "role": "Digital Marketing Strategist & SEO Consultant",
     "duration": "12 hours",
     "rating": 4.6,
     "level": "Beginner",
@@ -53,13 +89,25 @@
     "image": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=600&q=80",
     "category": "Marketing",
     "price": 29.99,
-    "students": 6890
+    "students": 6890,
+    "curriculum": [
+      "Digital Marketing Overview",
+      "SEO Fundamentals",
+      "Keyword Research",
+      "On-Page SEO",
+      "Content Marketing",
+      "Social Media Strategy",
+      "Email Marketing",
+      "Google Ads Basics",
+      "Analytics & Reporting",
+      "Marketing Campaign Project"
+    ]
   },
   {
     "id": 5,
     "title": "React & Next.js — The Complete Guide",
     "instructor": "Carlos Rivera",
-    "role": "React & Next.js Expert",
+    "role": "Frontend Architect & Next.js Specialist",
     "duration": "28 hours",
     "rating": 4.9,
     "level": "Advanced",
@@ -67,13 +115,25 @@
     "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&q=80",
     "category": "Development",
     "price": 54.99,
-    "students": 15600
+    "students": 15600,
+    "curriculum": [
+      "Modern JavaScript Review",
+      "React Fundamentals",
+      "Advanced React Patterns",
+      "State Management",
+      "TypeScript with React",
+      "Next.js Routing",
+      "Server Components",
+      "Authentication & Authorization",
+      "Tailwind CSS Integration",
+      "Deployment & Optimization"
+    ]
   },
   {
     "id": 6,
     "title": "Financial Literacy & Personal Investing",
     "instructor": "Priya Sharma",
-    "role": "Financial Advisor & Investment Coach",
+    "role": "Certified Financial Planner & Investment Advisor",
     "duration": "10 hours",
     "rating": 4.5,
     "level": "Beginner",
@@ -81,6 +141,18 @@
     "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600&q=80",
     "category": "Finance",
     "price": 24.99,
-    "students": 5320
+    "students": 5320,
+    "curriculum": [
+      "Introduction to Personal Finance",
+      "Budgeting & Saving",
+      "Managing Debt",
+      "Understanding Credit Scores",
+      "Stock Market Basics",
+      "ETFs & Mutual Funds",
+      "Risk Management",
+      "Retirement Planning",
+      "Building an Investment Portfolio",
+      "Long-Term Wealth Strategies"
+    ]
   }
 ]
