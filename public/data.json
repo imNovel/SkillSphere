@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "title": "Complete Web Development Bootcamp",
     "instructor": "John Doe",
     "role": "Full-Stack Developer & Tech Lead",
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 1,
     "title": "UI/UX Design Masterclass",
     "instructor": "Sarah Miller",
     "role": "Senior UI/UX Designer at Figma",
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 2,
     "title": "Python for Data Science & Machine Learning",
     "instructor": "Dr. Ahmed Khan",
     "role": "Data Scientist & ML Research Engineer",
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 3,
     "title": "Digital Marketing & SEO Strategy",
     "instructor": "Emma Williams",
     "role": "Digital Marketing Strategist & SEO Consultant",
@@ -104,7 +104,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 4,
     "title": "React & Next.js — The Complete Guide",
     "instructor": "Carlos Rivera",
     "role": "Frontend Architect & Next.js Specialist",
@@ -130,7 +130,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 5,
     "title": "Financial Literacy & Personal Investing",
     "instructor": "Priya Sharma",
     "role": "Certified Financial Planner & Investment Advisor",

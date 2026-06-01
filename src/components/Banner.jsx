@@ -30,13 +30,6 @@ const Banner = () => {
       {/* Content */}
       <div className="relative h-full flex items-center">
         <div className="max-w-7xl mx-auto px-8 text-white">
-          {/* Eyebrow label */}
-          <span
-            className="inline-block text-xs font-semibold tracking-[0.2em] uppercase mb-4 px-3 py-1 rounded-full border border-purple-400/40"
-            style={{ color: "#c4b5fd", background: "rgba(109,40,217,0.25)" }}
-          >
-            New Courses Available
-          </span>
 
           <h1
             className="text-4xl md:text-6xl font-extrabold mb-4 max-w-2xl leading-tight"
@@ -61,7 +54,7 @@ const Banner = () => {
           </p>
 
           <div className="flex gap-4 flex-wrap">
-            <Link href="#">
+            <Link href={"/"}>
               <Button
                 className="font-semibold px-6 py-2 rounded-xl text-white shadow-lg"
                 style={{
@@ -72,7 +65,7 @@ const Banner = () => {
                 Get Started Free
               </Button>
             </Link>
-            <Link href="#">
+            <Link href="/courses">
               <Button
                 variant="bordered"
                 className="font-semibold px-6 py-2 rounded-xl"
@@ -85,25 +78,6 @@ const Banner = () => {
                 Browse Courses
               </Button>
             </Link>
-          </div>
-
-          {/* Social proof chips */}
-          <div className="mt-8 flex gap-3 flex-wrap">
-            {["⭐ 4.9 Rating", "👩‍💻 50k+ Learners", "🎓 200+ Courses"].map(
-              (item) => (
-                <span
-                  key={item}
-                  className="text-xs px-3 py-1 rounded-full"
-                  style={{
-                    background: "rgba(255,255,255,0.08)",
-                    color: "#d4d4d8",
-                    border: "1px solid rgba(255,255,255,0.12)",
-                  }}
-                >
-                  {item}
-                </span>
-              )
-            )}
           </div>
         </div>
       </div>
