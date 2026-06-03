@@ -54,7 +54,7 @@ const Banner = () => {
           </p>
 
           <div className="flex gap-4 flex-wrap">
-            <Link href={"/"}>
+            <Link href={"/signup"}>
               <Button
                 className="font-semibold px-6 py-2 rounded-xl text-white shadow-lg"
                 style={{
