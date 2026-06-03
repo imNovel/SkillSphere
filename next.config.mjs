@@ -2,13 +2,16 @@
 const nextConfig = {
   /* config options here */
   reactCompiler: true,
-  images:{
-    remotePatterns:[
+  images: {
+    remotePatterns: [
       {
-        hostname: 'images.unsplash.com'
-      }
-    ]
-  }
+        hostname: "images.unsplash.com",
+      },
+    ],
+  },
+  experimental: {
+    serverComponentsExternalPackages: ["@better-auth/kysely-adapter"],
+  },
 };
 
 export default nextConfig;
