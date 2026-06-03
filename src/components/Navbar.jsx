@@ -53,6 +53,7 @@ const Navbar = () => {
                   src={user?.image}
                   referrerPolicy="no-referrer"
                 />
+                <Link href={"/profile"} className="absolute inset-0" />
                 <Avatar.Fallback>{user?.name.charAt(0)}</Avatar.Fallback>
               </Avatar>
               <Button size="sm" variant="danger" onClick={handleSignOut}>
