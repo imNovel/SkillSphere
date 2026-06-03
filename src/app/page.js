@@ -9,8 +9,8 @@ export default function Home() {
     <div>
       <Banner />
       <PopularCourses />
-      {/* <Tips /> */}
-      {/* <Instructors /> */}
+      <Tips />
+      <Instructors />
     </div>
   );
 }

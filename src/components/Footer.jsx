@@ -41,23 +41,17 @@ const Footer = () => {
             <ul className="space-y-3 text-sm text-gray-600 dark:text-gray-400">
               <li>
                 <Link
-                  href="/generate"
+                  href="/courses"
                   className="hover:text-black dark:hover:text-white transition"
                 >
-                  Generate
+                  Courses
                 </Link>
               </li>
               <li>
-                <Link
-                  href="/all-photos"
-                  className="hover:text-black dark:hover:text-white transition"
-                >
-                  Gallery
-                </Link>
               </li>
               <li>
                 <Link
-                  href="/pricing"
+                  href="/courses"
                   className="hover:text-black dark:hover:text-white transition"
                 >
                   Pricing
@@ -74,7 +68,7 @@ const Footer = () => {
             <ul className="space-y-3 text-sm text-gray-600 dark:text-gray-400">
               <li>
                 <Link
-                  href="/about"
+                  href="#"
                   className="hover:text-black dark:hover:text-white transition"
                 >
                   About
@@ -82,7 +76,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="/contact"
+                  href="#"
                   className="hover:text-black dark:hover:text-white transition"
                 >
                   Contact
@@ -90,7 +84,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  href="/terms"
+                  href="#"
                   className="hover:text-black dark:hover:text-white transition"
                 >
                   Terms
@@ -102,11 +96,11 @@ const Footer = () => {
           {/* CTA Block */}
           <div className="space-y-4">
             <h3 className="text-sm font-semibold text-black dark:text-white">
-              Start creating
+              Start your learning journey with SkillSphere today!
             </h3>
 
             <p className="text-sm text-gray-600 dark:text-gray-400">
-              Generate your first AI image today.
+              Join thousands of learners and start mastering new skills today.
             </p>
 
             <Link
@@ -126,7 +120,7 @@ const Footer = () => {
 
         {/* Bottom */}
         <div className="mt-6 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-gray-500 dark:text-gray-400">
-          <p>© {new Date().getFullYear()} pixgen. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} SkillSphere. All rights reserved.</p>
 
           <div className="flex items-center gap-6">
             <Link
