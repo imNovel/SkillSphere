@@ -2,7 +2,7 @@ import CourseCard from '@/components/CourseCard';
 import React from 'react';
 
 const CoursesPage = async() => {
-    const res = await fetch("https://skill-sphere-self.vercel.app/data.json");
+const res = await fetch("https://skill-sphere-self.vercel.app/data.json");
   const data = await res.json();
   console.log(data);
     return (
